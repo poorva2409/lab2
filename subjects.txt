@@ -1,0 +1,7 @@
+Subjects I am currently studying in my B.Tech CSE course:
+1. Data Structures
+2. Operating Systems
+3. Database Management Systems
+4. Computer Networks
+5. Software Engineering
+
